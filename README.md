@@ -10,8 +10,8 @@ https://github.com/dhrv04/dhrv04_preprocess
 
 Install
 
-pip install git+https://github.com/dhrv04/dhrv04_preprocess.git
+'pip install git+https://github.com/dhrv04/dhrv04_preprocess.git'
 
 Uninstall
 
-pip uninstall dhrv04_preprocess
+'pip uninstall dhrv04_preprocess'
